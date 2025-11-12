@@ -26,5 +26,5 @@ Workflow
 3. Initial data exploration – checking dimensions, data types, summary statistics, missing values, unique categories.
 
 4. Data cleaning & preparation – handling missing values (drop/impute), converting/encoding categorical variables, scaling or normalising if needed, feature creation.
-Exploratory analysis & visualization – distribution of individual features, pairwise relationships, correlation analysis, group comparisons, outlier detection.
-Key observations & summary of insights – listing what the EDA reveals and suggesting possible next steps or modelling considerations.
+
+5. Exploratory analysis & visualization – distribution of individual features, pairwise relationships, outlier detection.
